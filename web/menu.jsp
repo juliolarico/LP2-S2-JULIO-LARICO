@@ -1,7 +1,7 @@
 <%-- 
     Document   : menu
     Created on : 19-jul-2020, 18:49:48
-    Author     : User
+    Author     : Julio Larico
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
@@ -12,6 +12,13 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Hello World!</h1>
+        JLV <br>
+        Bienvenido al Sistema de Ventas <br>
+        1. Facturación <br>
+        2. Compras <br>
+        3. Datos Cliente <br>
+        4. Datos Producto <br>
+        5. Datos Proveedor <br>
+        6. Salir
     </body>
 </html>
